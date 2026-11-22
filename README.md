@@ -1,5 +1,5 @@
 
-### ✦ Somewhere between **data** & *design.*
+### ✦ Somewhere between data & design.
 
 Hi! I'm Hafsa, usually somewhere between a code editor and a design canvas. I enjoy connecting the dots, from building **data pipelines** to turning raw data into **meaningful insights**, and switching gears to create **visual designs, intuitive interfaces, and Notion systems** that make everyday things a little easier. 
 
@@ -31,5 +31,5 @@ Hi! I'm Hafsa, usually somewhere between a code editor and a design canvas. I en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="24" alt="Canva" title="Canva" />
 </p>
 
-*Whether it's data or design, I love finding clarity in complexity.*
+*Whether it's data or design, I love finding clarity in complexity!*
 
